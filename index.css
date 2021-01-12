@@ -1,5 +1,6 @@
 .jumbotron {
-    background-image:url("https://skanab.github.io/ButtonBacteria/images/background.png")
+    background-image:url("https://skanab.github.io/ButtonBacteria/images/background.png");
+    color: #dbdbdb;
   }
 
 .container {
